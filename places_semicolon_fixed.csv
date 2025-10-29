@@ -1,0 +1,111 @@
+﻿id;name;city;lat;lon;tags;rating;photo
+1;Парк им. Гагарина;Симферополь;44.9399;34.0832;природа,прогулка,семья,отдых;4.5;https://crimea24tv.ru/wp-content/uploads/2020/12/130874159_1733920266781425_7689005195941720516_o.jpg
+2;Зоопарк Симферополя;Симферополь;44.9562;34.1033;семья,дети,животные,развлечения;4.5;https://region82.su/wp-content/uploads/2020/03/big_45731177972.webp
+3;Крымский этнографический музей;Симферополь;44.9573;34.1028;музей,история,культура;4.5;https://upload.wikimedia.org/wikipedia/commons/3/32/Simf_et_museum.jpg
+4;Арт-завод «Крым»;Симферополь;44.9532;34.0933;искусство,современное,выставки,культура;4.5;https://images.unsplash.com/photo-1503264116251-35a269479413?w=800
+5;Собор Александра Невского;Симферополь;44.951;34.101;архитектура,религия,история;4.5;https://upload.wikimedia.org/wikipedia/commons/4/40/Alexander_Newski.jpg
+6;Детский парк;Симферополь;44.9561;34.0978;дети,развлечения,семья,прогулка;4.5;https://avatars.mds.yandex.net/i?id=30b5d24864f6a9d889a297b1c43b2118_l-5754670-images-thumbs&n=13
+7;Симферопольское водохранилище;Симферополь;44.986;34.16;природа,озеро,отдых,фото;4.5;https://upload.wikimedia.org/wikipedia/commons/3/3e/Simferopol_Reservoir.jpg
+8;Ботанический сад ТНУ;Симферополь;44.9465;34.0834;природа,сад,образование;4.5;https://museum.cfuv.ru/wp-content/gallery/photochronicle_tnu/136.jpg
+9;Кофейня «Таврика»;Симферополь;44.9529;34.1022;кафе,еда,кофе,прогулка;4.5;https://avatars.mds.yandex.net/i?id=46be156e51fa3c0d4c99f953843bd4b0_l-7756591-images-thumbs&n=13
+10;Набережная реки Салгир;Симферополь;44.9508;34.1085;прогулка,природа,вид,фото;4.5;https://cdnstatic.rg.ru/uploads/images/179/14/51/IMG_0253.jpg
+11;Ханский дворец;Бахчисарай;44.7433;33.8643;музей,история,архитектура;4.5;https://avatars.mds.yandex.net/i?id=9d82ead8b9107c7e2dbe8f9601ad43b6_l-9181172-images-thumbs&n=13
+12;Чуфут-Кале;Бахчисарай;44.7438;33.9242;горы,поход,руины,панорамы,природа;4.5;https://avatars.mds.yandex.net/i?id=15e87b053d20897f7906c0a44e78b1c9_l-4547999-images-thumbs&n=13
+13;Свято-Успенский монастырь;Бахчисарай;44.7365;33.8952;религия,архитектура,история;4.5;https://avatars.mds.yandex.net/i?id=b473b20476c4d81c9a02d9f6a972f41c_l-13083831-images-thumbs&n=13
+14;Эски-Кермен;Бахчисарай;44.7282;33.7715;поход,история,руины,природа;4.5;https://upload.wikimedia.org/wikipedia/commons/1/1e/Eski-Keremen.jpg
+15;Долина приведений (Соты);Бахчисарай;44.7323;33.8254;природа,скалы,горы,фото;4.5;https://avatars.mds.yandex.net/i?id=ba79a379d6edede6fb34fc7b214b8fbd_l-12184992-images-thumbs&n=13
+16;Кафе крымскотатарской кухни;Бахчисарай;44.744;33.867;кафе,еда,местная_кухня;4.5;https://avatars.dzeninfra.ru/get-zen_doc/1584893/pub_5f7ca236f862571092f70a83_5f7ca271f862571092f774e0/scale_1200
+17;Ласточкино гнездо;Ялта;44.4305;34.1143;фото,море,архитектура,романтика;4.5;https://avatars.mds.yandex.net/i?id=acfd8fd543a741c8716be62b9498183c_l-16118540-images-thumbs&n=13
+18;Ливадийский дворец;Ялта;44.4887;34.1383;история,архитектура,музей,фото;4.5;https://upload.wikimedia.org/wikipedia/commons/3/35/%D0%9B%D1%96%D0%B2%D0%B0%D0%B4%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BB%D0%B0%D1%86%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%817.jpg
+19;Воронцовский дворец;Алупка;44.4179;34.051;история,архитектура,сад,фото;4.5;https://icdn.lenta.ru/images/2025/05/22/15/20250522150850917/owl_wide_1200_80fa145cb556b454411785a9f148b566.jpg
+20;Ай-Петри;Ялта;44.4458;34.053;горы,природа,панорамы,фото;4.5;https://upload.wikimedia.org/wikipedia/commons/8/83/Ai-Petri.jpg
+21;Никитский ботанический сад;Никита;44.514;34.2347;сад,природа,цветы,семья;4.5;https://upload.wikimedia.org/wikipedia/commons/f/f1/%D0%91%D0%B5%D1%81%D0%B5%D0%B4%D0%BA%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BA%D1%82%D1%83%D1%81%D0%B0%D1%85.JPG
+22;Массандровский дворец;Ялта;44.5145;34.1898;история,архитектура,сад,фото;4.5;https://upload.wikimedia.org/wikipedia/commons/e/e3/Massandra_Palace2.jpg
+23;Приморский парк;Ялта;44.4932;34.1678;прогулка,море,кафе,фото;4.5;https://avatars.mds.yandex.net/i?id=45cc2f5e445955214ef1f0bf0c3fea82_l-12168040-images-thumbs&n=13
+24;Пляж Массандровский;Ялта;44.4995;34.1703;море,пляж,отдых;4.5;https://krymturizm.ru/wp-content/uploads/scale_1200-1.jpg
+25;Канатная дорога Ай-Петри;Ялта;44.4491;34.0589;аттракцион,горы,панорамы;4.5;https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_682cc0af6b2239586e97f5c9_682cc27dbb2b3d37370792de/scale_1200
+26;Поляна сказок;Ялта;44.4788;34.1265;дети,природа,семья;4.5;https://avatars.mds.yandex.net/get-vertis-journal/4080458/XXXL_-_2024-07-03T112800.684.webp_1719995289694/orig
+27;Кофейня на набережной;Ялта;44.4945;34.1665;кафе,кофе,вид,прогулка;4.5;https://yalta-naladoni.ru/uploads/img/places/just-cafe-near-primorsky-beach/just.jpg
+28;Ресторан с видом на море;Ялта;44.4922;34.165;кафе,еда,вид,романтика;4.5;https://avatars.dzeninfra.ru/get-zen_doc/5295744/pub_645dfad9a2ddc65808a62f3f_645e022e248d2a6d3c6e59a9/scale_1200
+29;Херсонес Таврический;Севастополь;44.6089;33.4887;история,музей,руины,фото;4.5;https://upload.wikimedia.org/wikipedia/commons/5/51/Chersonesos_ruins.jpg
+30;Мыс Фиолент;Севастополь;44.5867;33.4698;море,природа,пляж,фото;4.5;https://avatars.mds.yandex.net/get-altay/5106183/2a00000181f1e2a62914c3df49fe0387e04a/XXL_height
+31;Балаклава;Севастополь;44.5113;33.5991;море,прогулка,кафе,фото;4.5;https://upload.wikimedia.org/wikipedia/commons/0/0b/Modern_Balaklava_-_Gulf_of_Balaklava_%2816.07.2006_17-10-20%29.JPG
+32;Панорама Обороны Севастополя;Севастополь;44.6093;33.5256;музей,история,военное;4.5;https://avatars.mds.yandex.net/i?id=d745b778e458ab99d037541bac91b959_l-4464154-images-thumbs&n=13
+33;Сапун-гора;Севастополь;44.5647;33.5682;история,памятник,музей;4.5;https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800
+34;Музей Черноморского флота;Севастополь;44.6168;33.5251;музей,военное,история;4.5;https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Музей_Черноморского_флота_%2817344268334%29.jpg/1200px-Музей_Черноморского_флота_%2817344268334%29.jpg
+35;Пляж Учкуевка;Севастополь;44.6421;33.527;море,пляж,отдых;4.5;https://avatars.dzeninfra.ru/get-zen_doc/5174875/pub_60f09bb7607ad91f330d190b_60f3f9d86169c246f9601dc0/scale_1200
+36;Графская пристань;Севастополь;44.6158;33.5241;архитектура,история,фото;4.5;https://upload.wikimedia.org/wikipedia/commons/4/45/2012-09-09_%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C._%D0%93%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%8C_%281%29.jpg
+37;Аквариум-музей;Севастополь;44.6165;33.525;морская_жизнь,дети,развлечения;4.5;https://cdn5.vedomosti.ru/image/2023/97/n2npe/original-twk.jpg
+38;Набережная Корнилова;Севастополь;44.6161;33.5257;прогулка,кафе,вид,море;4.5;https://upload.wikimedia.org/wikipedia/commons/3/3a/%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0_%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC.jpg
+39;Кофейня у бухты;Севастополь;44.6135;33.525;кафе,кофе,вид,прогулка;4.5;https://avatars.mds.yandex.net/get-altay/5097872/2a00000181a97dbbb4b9f64467787d8d35f3/XXL_height
+40;Алушта аквариум;Алушта;44.6745;34.4123;семья,дети,море,развлечения;4.5;https://avatars.mds.yandex.net/i?id=0a44dc6ac1f7aec2e9fdd4e833291807_l-5233038-images-thumbs&n=13
+41;Профессорский уголок;Алушта;44.6823;34.411;пляж,море,прогулка,отдых;4.5;https://upload.wikimedia.org/wikipedia/commons/a/aa/Kastel_mt._01.JPG
+42;Долина приведений;Алушта;44.7578;34.388;горы,природа,поход,фото;4.5;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Долина_Привидений._Крым.jpg/1200px-Долина_Привидений._Крым.jpg
+43;Гора Демерджи;Алушта;44.7575;34.4021;горы,поход,панорамы,природа;4.5;https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_67fb9b1be1caa514ea6de4ee_67fb9db3729c784c9e78dce4/scale_1200
+44;Крымский природный заповедник;Алушта;44.69;34.4;природа,парк,животные;4.5;https://i.ytimg.com/vi/NDoinF5Htqk/maxresdefault.jpg
+45;Набережная Алушты;Алушта;44.676;34.414;море,прогулка,кафе;4.5;https://avatars.mds.yandex.net/i?id=48c03caa26adc70aad45db745ebafa02_l-5231941-images-thumbs&n=13
+46;Кафе у моря;Алушта;44.6765;34.412;кафе,еда,вид,море;4.5;https://avatars.mds.yandex.net/i?id=d360ff4145152f4d8d7c38b21cf10b4c_l-5099353-images-thumbs&n=13
+47;Евпатория старый город;Евпатория;45.1942;33.366;история,архитектура,прогулка,фото;4.5;https://avatars.mds.yandex.net/get-altay/2402012/2a00000172d3207172fd424d01d17fe5f5e1/XXL_height
+48;Дельфинарий Евпатория;Евпатория;45.1885;33.3568;семья,дети,развлечения,море;4.5;https://mirturbaz.ru/uploads/picture/pic/353188/big_image.jpg
+49;Мечеть Джума-Джами;Евпатория;45.195;33.3669;религия,архитектура,история;4.5;https://i.pinimg.com/originals/6d/23/f1/6d23f1c22de7d5b6d77e44159102c985.jpg
+50;Пляж Лиман;Евпатория;45.1968;33.3395;море,пляж,отдых;4.5;https://avatars.mds.yandex.net/i?id=5545e864e89c72ecad205ffdfcdbe4e3_l-5341226-images-thumbs&n=13
+51;Сакское озеро;Саки;45.133;33.5967;озеро,грязи,оздоровление,природа;4.5;https://upload.wikimedia.org/wikipedia/commons/1/1e/%D0%A1%D0%B0%D0%BA%D1%81%D1%8C%D0%BA%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE.JPG
+52;Грязелечебница Саки;Саки;45.1315;33.5858;медицина,оздоровление,история;4.5;https://i2014.otzovik.com/2014/08/16/1246297/img/56069772.jpg
+53;Кафе на набережной;Евпатория;45.191;33.3665;кафе,кофе,вид,прогулка;4.5;https://avatars.mds.yandex.net/get-altay/7370029/2a00000182bd68defbde2ac4e3c246f57d74/XXL_height
+54;Генуэзская крепость;Судак;44.8477;34.975;история,крепость,фото,панорамы;4.5;https://avatars.mds.yandex.net/i?id=9dfdc83f6cb1e25d3646e2d39ec0e955-5331535-images-thumbs&n=13
+55;Тропа Голицына;Новый Свет;44.8248;34.9186;море,поход,природа,фото;4.5;https://avatars.mds.yandex.net/i?id=e847e47a853ec6f4a11fed4985cbd254_l-5514587-images-thumbs&n=13
+56;Завод шампанских вин;Новый Свет;44.8253;34.9148;вино,экскурсия,история;4.5;https://avatars.mds.yandex.net/i?id=d8dbea335603486c903578916e9b2500_l-4590915-images-thumbs&n=13
+57;Мыс Капчик;Новый Свет;44.8231;34.9184;природа,море,панорамы,фото;4.5;https://f.otzyv.ru/f/a/19/85/16575694667586.jpeg
+58;Набережная Судака;Судак;44.851;34.974;море,прогулка,кафе;4.5;https://avatars.mds.yandex.net/i?id=cf06c75976d2258adb84bf0d3ce3afc7b6cf26fa-4135778-images-thumbs&n=13
+59;Кафе у крепости;Судак;44.8485;34.972;кафе,еда,вид,история;4.5;https://avatars.mds.yandex.net/get-altay/1871013/2a0000016b7bb625ba628dceab7474e8215d/orig
+60;Музей Айвазовского;Феодосия;45.0308;35.3824;искусство,музей,история;4.5;https://avatars.mds.yandex.net/i?id=08c45a5595a2386acd859bb20c6c5c94_l-4957727-images-thumbs&n=13
+61;Пляж Золотой;Феодосия;45.0389;35.3822;море,пляж,фото,семья;4.5;https://avatars.mds.yandex.net/i?id=7762276113f8e1fdef7c4c326e476688475beb7e-5579097-images-thumbs&n=13
+62;Башня Святого Константина;Феодосия;45.0304;35.3784;история,архитектура,фото;4.5;https://avatars.mds.yandex.net/i?id=b56b18cfd0db31fa73ec198af48dbac7f33638080a56a6b4-12935730-images-thumbs&n=13
+63;Карадагский заповедник;Коктебель;44.9383;35.2162;природа,поход,геология,фото;4.5;https://avatars.dzeninfra.ru/get-zen_doc/1665167/pub_5e6e5045d965b421effcc71f_5e6e5a8ce843ec4f8c3b0237/scale_1200
+64;Дом-музей Волошина;Коктебель;44.961;35.2493;музей,искусство,поэт;4.5;https://avatars.mds.yandex.net/i?id=829fca62258de81a47d3a4d5b32da579a29b6f98-10438698-images-thumbs&n=13
+65;Набережная Феодосии;Феодосия;45.032;35.383;море,прогулка,кафе;4.5;https://avatars.mds.yandex.net/i?id=c6c4163cabe4227ff55f58412ce6b151_l-5887129-images-thumbs&n=13
+66;Кафе на берегу;Коктебель;44.96;35.249;кафе,вид,море,еда;4.5;https://avatars.mds.yandex.net/i?id=f5fe0ff99f509a1fa2484ecc8e8c33668d549869-16187860-images-thumbs&n=13
+67;Мыс Тарханкут;Оленевка;45.3389;32.4961;море,дайвинг,природа,фото;4.5;https://avatars.mds.yandex.net/get-altay/2786941/2a00000173b3e3b17698d4b52042a6da7856/XXL_height
+68;Пляж Беляус;Черноморское;45.3472;32.7015;море,пляж,природа,фото;4.5;https://static.tildacdn.com/tild6539-6464-4364-b665-303865616333/_.jpg
+69;Пляж Оленевка;Оленевка;45.3405;32.509;море,отдых,семья,фото;4.5;https://avatars.dzeninfra.ru/get-zen_doc/2957013/pub_5f3a3ec8268c507d79d64919_5f3a5d80bf70422db13e6d21/scale_1200
+70;Маяк Тарханкутский;Оленевка;45.3594;32.4797;море,история,панорамы,фото;4.5;https://avatars.mds.yandex.net/i?id=1bcefb225fedbe858660424dd3542a08_l-10843661-images-thumbs&n=13
+71;Кафе у моря Оленевка;Оленевка;45.3415;32.505;кафе,еда,вид,море;4.5;https://avatars.mds.yandex.net/i?id=76d760cf9812bcb09f7b70cd46f16cff_l-5433865-images-thumbs&n=13
+72;Белая скала (Ак-Кая);Белогорск;45.095;34.598;природа,горы,поход,панорамы;4.5;https://avatars.mds.yandex.net/i?id=9bb45cb8749af5767d904f7ebf0eba71cc30e3a6-16360488-images-thumbs&n=13
+73;Сафари-парк Тайган;Белогорск;45.0585;34.2188;животные,семья,развлечения;4.5;https://ic.pics.livejournal.com/humus/758313/58773593/58773593_original.jpg
+74;Свято-Троицкий монастырь;Белогорск;45.0515;34.6;религия,архитектура,история;4.5;https://avatars.mds.yandex.net/i?id=6ac9e9f1e2982ffaaeac82045e6fdd2c_l-12753086-images-thumbs&n=13
+75;Пещера Красная;Белогорск;44.942;34.335;природа,пещера,туризм;4.5;https://avatars.mds.yandex.net/i?id=5f1c8043383873b3d82059eef95f8814_l-5254479-images-thumbs&n=13
+76;Кафе у Белой скалы;Белогорск;45.093;34.6005;кафе,вид,природа,еда;4.5;https://avatars.mds.yandex.net/i?id=beaab72b45fbdce32ff912aa097b85b4_l-11741829-images-thumbs&n=13
+77;Керченская крепость;Керчь;45.3668;36.4687;история,форт,военное,музей;4.5;https://upload.wikimedia.org/wikipedia/commons/4/4d/%D0%A4%D0%BE%D1%80%D1%82_%D0%A2%D0%BE%D1%82%D0%BB%D0%B5%D0%B1%D0%B5%D0%BD.jpg
+78;Гора Митридат;Керчь;45.3577;36.4743;панорамы,история,поход,фото;4.5;https://i.ytimg.com/vi/KiLpTUl11Ug/maxresdefault.jpg
+79;Царский курган;Керчь;45.365;36.4965;история,археология,музей;4.5;https://upload.wikimedia.org/wikipedia/commons/a/ab/Kerch_Tsarskiy_Kurgan_IMG_2160_1725.jpg
+80;Набережная Керчи;Керчь;45.3571;36.475;море,прогулка,кафе,фото;4.5;https://avatars.mds.yandex.net/i?id=1f53475923a6acf0035e4cd3fb4d50a547d789a9-10933522-images-thumbs&n=13
+81;Музей древностей;Керчь;45.3565;36.4753;музей,история,археология;4.5;https://avatars.mds.yandex.net/i?id=7564588b6fb42dee881cf142ca9c4b6f70abfb5d-9152878-images-thumbs&n=13
+82;Кафе у Митридата;Керчь;45.357;36.4748;кафе,вид,еда,прогулка;4.5;https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/16/63/c8/fishka.jpg?w=800&h=500&s=1
+83;Арабатская стрелка;Щёлкино;45.45;35.826;море,пляж,природа,отдых;4.5;https://upload.wikimedia.org/wikipedia/commons/8/87/%D0%90%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0_2019.jpg
+84;Озеро Чокракское;Щёлкино;45.44;35.838;озеро,грязи,оздоровление,природа;4.5;https://avatars.mds.yandex.net/i?id=54581634fac0a1075d605c67b506e9c197942379-5236455-images-thumbs&n=13
+85;Кафе у озера;Щёлкино;45.441;35.8365;кафе,вид,озеро,еда;4.5;https://i2018.otzovik.com/2018/06/15/6595308/img/85326188.jpeg
+86;Центральный пляж Саки;Саки;45.13;33.597;море,пляж,семья,отдых;4.5;https://images.unsplash.com/photo-1фhttps://avatars.mds.yandex.net/i?id=d01da3b7fb2ecb2792062743e68ddc8e_l-5332431-images-thumbs&n=13507525428034-b723cf961d3e?w=800
+87;Сакский краеведческий музей;Саки;45.1308;33.5868;музей,история,культура;4.5;https://avatars.mds.yandex.net/i?id=bea5498e79f14c6b3df78323e5e7d859d1137bae-3975511-images-thumbs&n=13
+88;Кафе у Сакского озера;Саки;45.1335;33.593;кафе,вид,озеро,еда;4.5;https://avatars.mds.yandex.net/get-altay/4439632/2a00000178074ad606157e1eddc6147c1377/XXXL
+89;Озеро Сасык-Сиваш;Нижнегорский;45.131;34.087;озеро,природа,пейзаж,фото;4.5;https://avatars.mds.yandex.net/i?id=a12ec0e0e28a7bacc95b49112d053e6f_l-4790390-images-thumbs&n=13
+90;Солёное озеро Раздольное;Раздольное;45.64;33.5;природа,озеро,фото,отдых;4.5;https://avatars.mds.yandex.net/i?id=261f3679aed2c77ec83aab0759aa090d_l-4842841-images-thumbs&n=13
+91;Кафе у Сасык-Сиваша;Нижнегорский;45.1305;34.09;кафе,вид,озеро,еда;4.5;https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800
+92;Парк Победы;Яна-Капу;45.951;33.796;природа,прогулка,семья,отдых;4.5;https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800
+93;Музей истории Перекопа;Яна-Капу;45.95;33.79;музей,история,военное;4.5;https://autotravel.ru/phalbum/91498/110.jpg
+94;Кафе в центре;Яна-Капу;45.952;33.795;кафе,еда,прогулка;4.5;https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800
+95;Пещера Мраморная;Скалистое;44.931;34.327;пещера,природа,поход,туризм;4.5;https://avatars.mds.yandex.net/i?id=220954f46c74ee1a798faf9b13b66ee31b680f7604f54c81-5887368-images-thumbs&n=13
+96;Пещера Эмине-Баир-Хосар;Чистенькое;44.9;34.25;пещера,природа,туризм,экскурсия;4.5;https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800
+97;Кафе у Пещеры Мраморной;Скалистое;44.9305;34.329;кафе,еда,вид,природа;4.5;https://images.unsplash.com/photo-1501785https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Эмине-Баир-Хосар_13.JPG/1200px-Эмине-Баир-Хосар_13.JPG888041-af3ef285b470?w=800
+98;Церковь Воскресения Христова;Форос;44.39;33.785;религия,архитектура,панорамы,фото;4.5;https://avatars.mds.yandex.net/i?id=d12c17d5b24395313feeba55f7b39b8ab2a404cd-13013698-images-thumbs&n=13
+99;Пляж Форос;Форос;44.3895;33.7858;море,пляж,природа,отдых;4.5;https://avatars.mds.yandex.net/i?id=0c359109410df7dd7dec6e20580ee1ce9fdf65fb-12967326-images-thumbs&n=13
+100;Кафе Форос у моря;Форос;44.3899;33.7862;кафе,еда,вид,море;4.5;https://avatars.mds.yandex.net/i?id=9a86fa5bc2e151b71dd05191f340484f_l-5287720-images-thumbs&n=13
+101;Парк Ливадия;Ялта;44.485;34.136;природа,прогулка,архитектура;4.5;https://avatars.mds.yandex.net/i?id=fc8ae78fcb17c3ba6a961a1b2221e99a421a56ff-12365999-images-thumbs&n=13
+102;Пляж Солнечный;Ялта;44.4938;34.1645;море,пляж,семья,отдых;4.5;https://img.c-inform.info/cache/e/d/Yalta_plyazh.jpg/dw900h500.jpg
+103;Мыc Айя;Севастополь;44.389;33.662;море,горы,природа,поход;4.5;https://i.pinimg.com/736x/38/a2/1a/38a21a6df62a02d3d285744303d4df71.jpg
+104;Пляж Омега;Севастополь;44.5825;33.445;море,пляж,развлечения,семья;4.5;https://avatars.mds.yandex.net/i?id=1849ebffad7642a6d23c5cde4deeda5c_l-5220579-images-thumbs&n=13
+105;Кафе Омега;Севастополь;44.583;33.4455;кафе,кофе,море,вид;4.5;https://avatars.mds.yandex.net/i?id=de9b140b44f46e3c88d1eb030a0dc9df_l-5603028-images-thumbs&n=13
+106;Профессорский пляж;Алушта;44.681;34.4125;море,пляж,отдых,семья;4.5;https://avatars.mds.yandex.net/i?id=56896ebe31914b14f449b231962e7571_l-7469517-images-thumbs&n=13
+107;Панорамное кафе Демерджи;Алушта;44.756;34.395;кафе,вид,горы,еда;4.5;https://avatars.mds.yandex.net/i?id=7e8023b55aa079431a0742c91625b003b4a517c9-5107508-images-thumbs&n=13
+108;Кафе на набережной Коктебеля;Коктебель;44.958;35.2495;кафе,море,вид,еда;4.5;https://avatars.mds.yandex.net/i?id=42eb48ae1de9f848b4763fbeb73a15f3_l-5218303-images-thumbs&n=13
+109;Кофейня Старый город;Евпатория;45.1948;33.3664;кафе,кофе,прогулка,история;4.5;https://avatars.mds.yandex.net/i?id=382110c036f8dd4c8ea3a9dacf2a83b3d00953ed-7543946-images-thumbs&n=13
+110;Смотровая Карадаг;Коктебель;44.94;35.22;природа,панорамы,фото,поход;4.5;https://avatars.dzeninfra.ru/get-zen_doc/3557661/pub_5f7c49fe40416f1e5bd729c9_5f7c4ecf952c3b370e5d1be7/scale_1200
