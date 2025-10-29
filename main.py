@@ -472,7 +472,9 @@ async def car_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 # ================== Main ==================
-def main():
+import asyncio
+
+async def main():
     token = os.getenv("BOT_TOKEN")
     app = ApplicationBuilder().token(token).build()
 
@@ -486,12 +488,9 @@ def main():
         fallbacks=[CommandHandler("cancel", start)],
         allow_reentry=True,
     )
+
     app.add_handler(conv)
-
-    # ❌ Больше НЕ добавляем внешний обработчик на "restart" — он ломал ре-энтри
-    # app.add_handler(CallbackQueryHandler(interests_callback, pattern="^restart$"))
-
-    app.run_polling()
+    await app.run_polling()
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
